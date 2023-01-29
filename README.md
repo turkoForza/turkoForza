@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on a municipality at Turkey
-- 🌱 I’m currently learning HTML, CSS and JS
+- 🌱 I’m currently learning HTML, CSS, Bootstrap, SASS, JS
 
 <!--
 **turkoForza/turkoForza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
