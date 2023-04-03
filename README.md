@@ -95,7 +95,7 @@
 # 📈 Statistics
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=turkoForza&show_icons=true&theme=react&&hide_border=true"
+  src="https://github-readme-stats.vercel.app/api?username=turkoforza&show_icons=true&theme=react"
 />
 <img
   src="https://github-readme-streak-stats.herokuapp.com/?user=turkoForza&&theme=react&&hide_border=true"
